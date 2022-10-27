@@ -91,7 +91,7 @@ If you find our repo or our paper useful, please use the following citation:
 @article{wu2022trajectoryguided,
  title={Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline}, 
  author={Penghao Wu and Xiaosong Jia and Li Chen and Junchi Yan and Hongyang Li and Yu Qiao},
- journal={arXiv preprint arXiv:2206.08129},
+ journal={Conference on Neural Information Processing Systems (NeurIPS)},
  year={2022},
 }
 ```
